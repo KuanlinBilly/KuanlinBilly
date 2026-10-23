@@ -7,7 +7,7 @@
 
 I am a Graduate student at **National Taiwan University (NTU)**, with a strong focus on **AI, data systems, and Quant finance**.
 
-Previously worked as a **Data Scientist / Data Engineer Intern at a FAANG tech company** and **Quant Intern at a financial trading institution**.
+Previously worked as a **Data Science Intern at a FAANG tech company** and **Quant Intern at a financial trading institution**.
 
 I enjoy building systems for machine learning, data engineering, financial analytics, and research-oriented applications.
 
