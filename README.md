@@ -117,7 +117,6 @@ I'm especially interested in connecting with people working on:
 - Applied machine learning
 - LLM applications and evaluation
 - Quantitative research and financial technology
-- Python-based tools and automation
 
 Feel free to reach out if you are interested in collaborating, exchanging ideas, or building something together.
 
