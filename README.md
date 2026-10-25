@@ -5,7 +5,7 @@
 
 # Hi there!
 
-I am a Graduate student at **National Taiwan University (NTU)**, with a strong focus on **AI, data systems, and Quant finance**.
+I am a student at **National Taiwan University (NTU)**, with a strong interest in **AI, data systems, and Quant finance**.
 
 Previously worked as a **Data Science Intern at a FAANG tech company** and **Quant Intern at a financial trading institution**.
 
