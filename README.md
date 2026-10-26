@@ -1,8 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:F7C118&height=170&section=header&text=AI%20%2F%20ML%20Engineering&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=Applied%20AI%20%C3%97%20Data%20Systems%20%C3%97%20Quant%20Research&descAlignY=58&descSize=15" />
 
-### Hi, I'm Billy 👋
+### Hi there 👋
 
-Student at **National Taiwan University**, building applied AI, data systems, and quantitative research tools.
+I'm a student at **National Taiwan University**, building applied AI, data systems, and quantitative research tools.
 
 - **AI Research Intern** @ a national research institute
 - **Data Science & Engineering Intern** @ big tech
