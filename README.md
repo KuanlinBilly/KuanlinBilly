@@ -22,6 +22,6 @@ I'm a student at **National Taiwan University**, building applied AI, data syste
 
 Open to internships, research collaborations, and technical conversations.
 
-<a href="mailto:billy.lai.company@gmail.com"><img src="https://img.shields.io/badge/Email-billy.lai.company%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:kuanlinb.dev@gmail.com"><img src="https://img.shields.io/badge/Email-kuanlinb.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C118,100:0F172A&height=100&section=footer" />
