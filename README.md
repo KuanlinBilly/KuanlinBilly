@@ -6,7 +6,7 @@ I'm a student at **National Taiwan University**, building applied AI, data syste
 
 - **AI Research Intern** @ a national research institute
 - **Data Science & Engineering Intern** @ big tech
-- **Quant Intern** @ trading & investment firms
+- **Quant Intern** @ bank & brokerage trading desks
 
 ### Projects
 
