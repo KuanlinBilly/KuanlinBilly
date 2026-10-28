@@ -4,10 +4,6 @@
 
 I'm a student at **National Taiwan University**, building applied AI, data systems, and quantitative research tools.
 
-- **AI Research Intern** @ a national research institute
-- **Data Science & Engineering Intern** @ big tech
-- **Quant Intern** @ bank & brokerage trading desks
-
 ### Projects
 
 - **[TalkGrade](https://talkgrade.com)**: AI-powered speaking feedback for English learners, starting with TOEFL iBT Speaking. It combines speech recognition, rubric-guided LLM scoring, and personalized feedback to help learners understand what went wrong and how to improve.
