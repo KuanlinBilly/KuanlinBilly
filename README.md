@@ -2,14 +2,14 @@
 
 ### Hi there 👋
 
-I'm a student at **National Taiwan University**, building applied AI, data systems, and quantitative research tools.
+I'm building applied AI, data systems, and quantitative research tools.
 
 ### Projects
 
 - **[TalkGrade](https://talkgrade.com)**: AI-powered speaking feedback for English learners, starting with TOEFL iBT Speaking. It combines speech recognition, rubric-guided LLM scoring, and personalized feedback to help learners understand what went wrong and how to improve.
-- **PatternLab**: a quantitative market analysis tool for finding recurring price patterns and examining what happened after similar setups in the past. It brings together similarity search, 17 technical patterns, macro factors, and historical backtesting, with natural-language summaries for multi-asset review.
-- **SemSearch**: local semantic file search for macOS that finds files by meaning, not filename. It uses bge-m3 embeddings and Vision OCR, offloads reranking to a remote GPU with automatic fallback, and tunes ranking against a held-out eval set.
-
+- **PatternLab**: a quantitative market analysis tool for finding recurring price patterns and examining what happened after similar setups in the past. It brings together similarity search, technical patterns, macro factors, and historical backtesting, with natural-language summaries for multi-asset review. [Demo](https://youtu.be/P13LC6G7PQg)
+- **[SemSearch](https://github.com/kuanlinb/semsearch)**: local semantic file search for macOS that finds files by meaning, not filename. It uses bge-m3 embeddings and Vision OCR, offloads reranking to a remote GPU with automatic fallback, and tunes ranking against a held-out eval set. [Demo](https://youtu.be/FPExL5MBMQY)
+  
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=python,r,cpp,pytorch,sklearn,mysql,mongodb,docker,aws,git,linux" />
